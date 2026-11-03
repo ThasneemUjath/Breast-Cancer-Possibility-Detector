@@ -15,7 +15,7 @@ A full-stack Machine Learning project that predicts the probability of breast ca
 
 ##  Tech Stack
 
-- **Frontend:** React (or your frontend tech)
+- **Frontend:** React 
 - **Backend:** Python
 - **Machine Learning:** Scikit-learn
 - **Dataset:** Breast Cancer Dataset
